@@ -3,11 +3,11 @@
     <item android:id="@+id/item_blue"
         android:title="배경색 (파랑)"
         />
-    <item android:id="@+id/item_pink"
-        android:title="배경색 (핑크)"
+    <item android:id="@+id/item_yellow"
+        android:title="배경색 (노랑)"
         />
-    <item android:id="@+id/item_purple"
-        android:title="배경색 (보라)"
+    <item android:id="@+id/item_red"
+        android:title="배경색 (빨강)"
         />
     <item android:title="버튼 회전">
             <menu>
